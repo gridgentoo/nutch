@@ -1,3 +1,21 @@
+# Apache Nutch — модульный фреймворк для построения поисковых систем, написанный на языке Java таких как yandex или google
+
+На базе Nutch 2.0, запущенного поверх 34-узлового Hadoop-кластера, построен поисковый сервис компании Kalooga, в индексе которого находится более миллиарда страниц. 
+
+Apache Nutch — модульный фреймворк для построения поисковых систем, написанный на языке Java и основанный на технологиях Lucene, Solr, Tika, Hadoop и Gora, адаптированных для специфики поиска в интернете (например, поддерживается crawler, база ссылочной связи, парсинг HTML и других форматов). Архитектура Nutch позволяет разработчикам создавать плагины для обработки нового медиа-контента, получение данных через нестандартные каналы для формирования типовых запросов или организации поискового кластера.
+Система предоставляет средства для построения высокомасштабных систем индексации, отвлеченных от типа хранилища, что позволяет использовать такие хранилища для больших объемов данных, как Apache Accumulo, Apache Avro, Apache Cassandra, Apache HBase и HDFS, так и SQL-базы и размещение в памяти NoSQL БД.
+На базе Nutch 2.0, запущенного поверх 34-узлового Hadoop-кластера, построен поисковый сервис компании Kalooga, в индексе которого находится более миллиарда страниц[1].
+
+Search engines built with Nutch
+Common Crawl – publicly available internet-wide crawls, started using Nutch in 2014.[2]
+Creative Commons Search – an implementation of Nutch, used in the period of 2004–2006.[10][11][12]
+DiscoverEd – Open educational resources search prototype developed by Creative Commons
+Krugle uses Nutch to crawl web pages for code, archives and technically interesting content.
+mozDex (inactive)
+Wikia Search - launched 2008, closed down 2009
+
+
+
 Apache Nutch README
 ===================
 

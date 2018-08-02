@@ -2,6 +2,9 @@
 
 На базе Nutch 2.0, запущенного поверх 34-узлового Hadoop-кластера, построен поисковый сервис компании Kalooga, в индексе которого находится более миллиарда страниц. 
 
+![alt text](https://cf.ppt-online.org/files1/slide/i/ICJo6extfvTVQnc0lik45BsqK2NyG8drHzOmaPjE7/slide-34.jpg)
+
+
 # Архитектура [nutch] & Реверс инжениринг
 
 https://drive.google.com/drive/folders/13V9bx41gtxNxtYkfGE3p01UO0sqMKQ5G

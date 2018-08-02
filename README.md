@@ -4,6 +4,8 @@
 
 ![alt text](https://cf.ppt-online.org/files1/slide/i/ICJo6extfvTVQnc0lik45BsqK2NyG8drHzOmaPjE7/slide-34.jpg)
 
+![alt text](https://www.researchgate.net/profile/Caleb_Roth/publication/267272804/figure/fig1/AS:392051783946242@1470483837467/Simplified-illustration-of-death-pathways-instigated-in-nsPEFinduced-cell-death-The.png)
+
 
 # Архитектура [nutch] & Реверс инжениринг
 

@@ -1,4 +1,4 @@
-# Движок для поиска по Биохимической и Генетической информации на основе Nutch & CaffeOnSpark.
+# Движок для поиска по Генетической информации на основе CaffeOnSpark & Nutch
 
 ![alt text](http://elementy.ru/images/news/regeneration_experiment_600.jpg) 
 ![alt text](http://fotki.ykt.ru/albums/userpics/26023/normal_42_yeto_nash_yepos.jpg) <br/>

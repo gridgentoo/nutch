@@ -30,6 +30,8 @@
 [Абрахас Индастрис ©] <br/>
 https://www.youtube.com/watch?v=74ETUZHoFc0
 
+# Сборка из исходников Spark, Hive, Hadoop, Zookeper, Mesos, BigData, Tensorflow... в Gentoo
+https://github.com/gridgentoo/gentoo-tensorflow-overlay
 
 # Apache Nutch — модульный фреймворк для построения поисковых систем, написанный на языке Java таких как yandex или google
 

@@ -46,7 +46,6 @@ https://github.com/gridgentoo/gentoo-tensorflow-overlay
 
 https://drive.google.com/drive/folders/13V9bx41gtxNxtYkfGE3p01UO0sqMKQ5G
 
-
 # Исследование Запрограммированного старения Человека
 [FasR] == Рецептор [death receptor 3 — «рецептор смерти 3»]  является рецептором  смерти на поверхности клеток, что приводит к запрограммированной клеточной гибели (апоптоза).
 

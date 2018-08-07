@@ -35,7 +35,13 @@ https://www.youtube.com/watch?v=74ETUZHoFc0
 Целые рощи высотой более 100 метров.  Например саженцы Эвкалипта вырастают на семь метров за первый год после посадки. 
 За 10-летку 70-метров! - это больше 28-этажного дома, максимальная высота дерева эвкалипта достигает 155 метров
 
-https://www.youtube.com/watch?v=OxPlKVK8RLM﻿
+https://www.youtube.com/watch?v=OxPlKVK8RLM
+
+В журнале Nature опубликован геном эвкалипта. Саженцы вырастают на семь метров за первый год после посадки.
+За 5-летку 35-метров! 
+
+http://www.nature.com/nature/journal/v510/n7505/full/nature13308.html
+
 
 # Сборка из исходников Spark, Hive, Hadoop, Zookeper, Mesos, BigData, Tensorflow... в Gentoo
 https://github.com/gridgentoo/gentoo-tensorflow-overlay

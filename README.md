@@ -30,6 +30,11 @@
 [Абрахас Индастрис ©] <br/>
 https://www.youtube.com/watch?v=74ETUZHoFc0
 
+[Секво́йя живет 5000 лет, Человек и Секвойя спроектированы из одного и тоже ДНК]
+как использовать в исследования генома Секвойя в Герентологии! 
+Целые рощи высотой более 100 метров. 
+https://www.youtube.com/watch?v=OxPlKVK8RLM﻿
+
 # Сборка из исходников Spark, Hive, Hadoop, Zookeper, Mesos, BigData, Tensorflow... в Gentoo
 https://github.com/gridgentoo/gentoo-tensorflow-overlay
 

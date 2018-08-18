@@ -11,6 +11,10 @@
 
 https://docs.google.com/document/d/1nxm4HdvxuJjndCc66v0tQsE11IJNiD59lwCXIS35YZ8/
 
+Как масштабировал свою инфраструктуру в реальном времени до [триллиона событий] в день
+
+https://github.com/gridgentoo/uReplicatorUber
+
 Говорят, что Господь Бог был любителем Gentoo — и тоже мир 6 дней собирал. <br/>
 Иначе откуда взяться поговорке «Я бы изменил мир, но Бог не даёт исходников»?
 

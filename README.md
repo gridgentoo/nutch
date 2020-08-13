@@ -1,4 +1,4 @@
-## Фрейморк для поиска по Генетической информации на основе CaffeOnSpark & Nutch
+## DNA Фрейморк для поиска по Генетической информации на основе CaffeOnSpark & Nutch
 
 ![alt text](http://elementy.ru/images/news/regeneration_experiment_600.jpg) 
 

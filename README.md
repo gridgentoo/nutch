@@ -102,6 +102,7 @@ https://medicalxpress.com/news/2017-04-artificial-thymus-cancer-fighting-cells-b
 
 https://medicalxpress.com/news/2017-04-brain-tissue-petri-dish.html
 
+
 ## Выращенные межпозвонковые диски успешно пересажены
 Новое исследование Penn Medicine, опубликованное в Science Translational Medicine, показывает убедительные свидетельства, что клетки пациентов, страдающих от боли в шее и спине, могут быть использованы в инженерии нового межпозвонкового диска в лаборатории, чтобы заменить повреждённый. Исследование, которое было выполнено с использованием коз, проводилось междисциплинарной группой Медицинского факультета, Школы инженерии и прикладных наук и Школы ветеринарной медицины при Университете Пенсильвании.   
 https://www.pennmedicine.org/news/news-releases/2018/november/treating-spinal-pain-with-replacement-discs-made-of-engineered-living-tissue-moves-closer-to-reality

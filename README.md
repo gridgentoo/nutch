@@ -56,6 +56,52 @@ https://www.nature.com/news/biologists-grow-human-eye-precursor-from-stem-cells-
 
 https://news.softpedia.com/news/New-Grown-Hearts-by-Bioengineering-on-the-Way-50943.shtml
 
+7. Сердечные клапаны. Швейцарские ученые доктор Саймон Хоерстрап (Simon Hoerstrup) и Дорта Шмидт (Dorthe Schmidt) из университета Цюриха (University of Zurich) смогли вырастить человеческие сердечные клапаны, воспользовавшись стволовыми клетками, взятыми из околоплодной жидкости. Теперь медики смогут выращивать клапаны сердца специально для неродившегося еще ребенка, если у него еще в зародышевом состоянии обнаружатся дефекты сердца.
+
+https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2007.2131
+
+8. Ушная раковина. Используя стволовые клетки, ученые вырастили ухо человека на спине крысы. Эксперимент был проведен исследователями из Университета Токио (University of Tokyo) И Университета Киото (Kyoto University) под руководством Томаса Сервантеса (Thomas Cervantes).
+
+https://medportal.ru/mednovosti/na-spine-krysy-vyrastili-chelovecheskoe-uho/
+
+9. Кожа. Ученые из Цюрихского университета (Швейцария) и университетской детской больницы этого города впервые сумели вырастить в лаборатории человеческую кожу, пронизанную кровеносными и лимфатическими сосудами. Полученный кожный лоскут способен почти полностью выполнять функцию здоровой кожи при ожогах, хирургических дефектах или кожных болезнях.
+
+https://horizon-magazine.eu/article/complete-human-skin-grown-lab.html
+
+10. Поджелудочная железа. Ученые впервые создали васкуляризованные островки поджелудочной железы, способные вырабатывать инсулин. Еще одна попытка вылечить диабет I типа.
+
+https://medportal.ru/mednovosti/zamenitel-podzheludochnoy-zhelezy-mozhno-vyrastit-v-probirke/
+
+11. Почки. Ученые из австралийского университета Квинсленда научились выращивать искусственные почкииз стволовых клеток кожи. Пока это лишь маленькие органоиды размером 1 см, но по устройству и функционированию они практически идентичны почкам взрослого человека.
+
+https://www.nature.com/articles/nature15695
+
+12. Печень. Биологи сразу нескольких стран заявили о том, что смогли вырастить полноценный аналог печени, способный очищать кровь от токсинов и выполнять другие функции этого органа. Для этого ученые использовали стволовые клетки и «заготовки» из стволовых клеток. Эти разработки параллельно велись в Японии, Америке и России.
+
+https://regnum.ru/news/2099261.html
+
+https://ria.ru/20160830/1475631928.html
+
+https://medportal.ru/mednovosti/rossiyskie-uchenye-soobschili-o-sozdanii-bioiskusstvennoy-pecheni/
+
+13. Мочевой пузырь. Группа американских ученых под руководством Энтони Аталы (Anthony Atala) вырастила в лаборатории человеческие мочевые пузыри, полностью готовые к пересадке, из образцов собственных тканей пациентов. Те же ученые вырастили мочеиспускательные каналы для пациентов, у которых они были повреждены.
+
+https://medportal.ru/mednovosti/uchenym-udalos-vyrastit-iskusstvennyy-mochevoy-puzyr-iz-obraztsov-tkaney-bolnyh/
+
+https://medportal.ru/mednovosti/pyaterym-podrostkam-vyrastili-mocheispuskatelnye-kanaly/
+
+14. Кроме того, ученые уже научились выращивать хрящевые ткани, ткани скелетных мышц и костей, ткани гипофиза, тимуса, а также ткани, функционирующие аналогично тканям человеческого мозга. 
+
+https://medicalxpress.com/news/2017-04-success-d-bioprinting-cartilage.html
+
+https://medicalxpress.com/news/2017-02-stem-cells-somites-precursors-skeletal.html
+
+https://medicalxpress.com/news/2016-06-pituitary-tissue-grown-human-stem.html
+
+https://medicalxpress.com/news/2017-04-artificial-thymus-cancer-fighting-cells-blood.html
+
+https://medicalxpress.com/news/2017-04-brain-tissue-petri-dish.html
+
 ## Выращенные межпозвонковые диски успешно пересажены
 Новое исследование Penn Medicine, опубликованное в Science Translational Medicine, показывает убедительные свидетельства, что клетки пациентов, страдающих от боли в шее и спине, могут быть использованы в инженерии нового межпозвонкового диска в лаборатории, чтобы заменить повреждённый. Исследование, которое было выполнено с использованием коз, проводилось междисциплинарной группой Медицинского факультета, Школы инженерии и прикладных наук и Школы ветеринарной медицины при Университете Пенсильвании.   
 https://www.pennmedicine.org/news/news-releases/2018/november/treating-spinal-pain-with-replacement-discs-made-of-engineered-living-tissue-moves-closer-to-reality
